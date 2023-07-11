@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "name": "Nikita",
+    "coordinates": {
+      "x": 2.0,
+      "y": 3
+    },
+    "creationDate": "2023-05-27",
+    "height": 180,
+    "birthday": "2003-11-11",
+    "passportID": "123",
+    "nationality": "INDIA",
+    "location": {
+      "x": 2,
+      "y": 1,
+      "z": 3.0,
+      "name": "MOscow"
+    }
+  }
+]
